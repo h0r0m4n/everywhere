@@ -3,7 +3,7 @@
 /* TEAM */
   Name: Roman Horokhovatskyy
   Site: roman.horokhovatskyy@gmail.com, horoman.com
-  Twitter: @_horomna
+  Twitter: @h0r0man
 
 /* SITE */
   Last update: 2015/03/02
